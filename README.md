@@ -40,7 +40,7 @@
 
 ## 功能演示
 
-> 💡 视频演示请访问：<a href="https://gr3e3n.github.io/VehTrust/video-demo.html" target="_blank">**在线观看全部演示视频 **</a>
+> 💡 视频演示请访问：<a href="https://gr3e3n.github.io/VehTrust/video-demo.html" target="_blank">**click me**</a>
 
 
 - **📹 事故溯源分析** — 详情页完整分析流程（责任界定、关键指标、AI报告、严重度推理、上链）
