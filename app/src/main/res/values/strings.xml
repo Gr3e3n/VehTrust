@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">VehTrust</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="ai_analysis_title">AI事故原因分析</string>
+    <string name="ai_analysis_desc">结合本地责任指标、事故时序特征与 OpenAI 服务输出事故因果研判。</string>
+    <string name="ai_analysis_button">生成 AI 事故分析</string>
+    <string name="ai_analysis_loading">AI 正在分析事故原因...</string>
+    <string name="ai_analysis_retry">重新生成 AI 分析</string>
+    <string name="ai_analysis_fallback">当前已回退到本地规则分析。</string>
+    <string name="dl_analysis_title">深度学习时序分析</string>
+    <string name="dl_model_prefix">模型</string>
+    <string name="dl_overall_risk_prefix">综合风险</string>
+    <string name="dl_predicted_label_prefix">模式识别</string>
+    <string name="dl_confidence_prefix">事故类型置信度</string>
+    <string name="severity_prediction_title">事故严重度预测</string>
+    <string name="severity_prediction_desc">使用端侧本地严重度模型，离线评估碰撞事件属于轻微、重伤或致命等级，并展示概率、关键因子与结构化研判摘要。</string>
+    <string name="severity_prediction_button">生成本地严重度研判</string>
+    <string name="severity_prediction_loading">本地严重度模型正在计算...</string>
+    <string name="severity_prediction_retry">重新生成本地研判</string>
+    <string name="severity_prediction_fallback">当前结果由端侧本地模型直接生成。</string>
+</resources>
