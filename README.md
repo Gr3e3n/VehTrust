@@ -1,7 +1,7 @@
 ﻿# VehTrust — 车载智能安全监控与事故可信存证工程
 
 - 📱 **模拟平台**：Android 手机 / 平板 / Android Automotive OS（AAOS）模拟器，无特殊 SDK 依赖
-- 🚗 **车机平台**：车载中控大屏，依赖（亿咖通车载扩展框架）
+- 🚗 **车机平台**：车载中控大屏，依赖亿咖通车载扩展框架
 - 💻 **客户端语言**：Kotlin
 - ⚙️ **服务与训练**：Python（FastAPI + scikit-learn）
 - ⛓️ **链上能力**：Hyperledger Fabric Chaincode + Go API
