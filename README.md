@@ -43,9 +43,9 @@
 > 💡 视频演示请访问：<a href="https://gr3e3n.github.io/VehTrust/video-demo.html" target="_blank">**在线观看全部演示视频 →**</a>
 
 
-- **📹 事故溯源分析** — 详情页完整分析流程（责任界定、关键指标、AI报告、严重度推理、上链）：[demo/analysis.mp4](demo/analysis.mp4)
-- **⛓️ 数据上链** — Hyperledger Fabric 链码存证全过程：[demo/chain.mp4](demo/chain.mp4)
-- **🚗 综合功能展示** — 安全中心模块、事故列表、页面交互漫游：[demo/pre.mp4](demo/pre.mp4)
+- **📹 事故溯源分析** — 详情页完整分析流程（责任界定、关键指标、AI报告、严重度推理、上链）
+- **⛓️ 数据上链** — Hyperledger Fabric 链码存证全过程
+- **🚗 综合功能展示** — 安全中心模块、事故列表、页面交互漫游
 
 - **🖼 界面截图**
 
@@ -53,7 +53,7 @@
 |------|------|
 | ![主界面](demo/pre.png) | 安全中心主页概览 |
 | ![上链成功](demo/chain.png) | 区块链上链操作成功确认 |
-
+| ![车机大屏界面](demo/CarScreen.jpg) | 车机版 UI — 字号/间距/触控区域全面放大，适配车载中控屏 |
 ---
 
 ## 核心能力
