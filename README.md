@@ -41,7 +41,7 @@
 ## 功能演示
 
 > 💡 视频演示请访问：<a href="https://gr3e3n.github.io/VehTrust/video-demo.html" target="_blank">**在线观看全部演示视频 →**</a>
-> （GitHub Markdown 不支持 `<video>` 标签，已单独部署 HTML 播放页）
+
 
 - **📹 事故溯源分析** — 详情页完整分析流程（责任界定、关键指标、AI报告、严重度推理、上链）：[demo/analysis.mp4](demo/analysis.mp4)
 - **⛓️ 数据上链** — Hyperledger Fabric 链码存证全过程：[demo/chain.mp4](demo/chain.mp4)
@@ -51,7 +51,7 @@
 
 | 截图 | 说明 |
 |------|------|
-| ![主界面](demo/pre.png) | 安全中心主页 — 六大模块状态概览 |
+| ![主界面](demo/pre.png) | 安全中心主页概览 |
 | ![上链成功](demo/chain.png) | 区块链上链操作成功确认 |
 
 ---
