@@ -98,7 +98,8 @@ VehTrust/
 │   ├── chain.mp4                #   区块链上链演示视频
 │   ├── pre.mp4                  #   综合功能展示视频
 │   ├── pre.png                  #   主界面截图
-│   └── chain.png                #   上链成功截图
+│   ├── chain.png                #   上链成功截图
+│   └── CarScreen.jpg            #   车机大屏界面截图
 ├── VehTrust_Carui/              # 车机大屏 UI 适配资源
 │   ├── VehTrust_CarScreen.apk   #   车机版安装包
 │   ├── change.md                #   UI 逐项变更说明文档（代码级）
@@ -213,8 +214,8 @@ VehTrust/
 | `demo/pre.mp4` | 综合功能展示视频 |
 | `demo/pre.png` | 主界面截图 |
 | `demo/chain.png` | 上链成功截图 |
+| `demo/CarScreen.jpg` | 车机大屏界面截图 |
 | `video-demo.html` | 在线视频播放页（GitHub Pages 部署） |
-
 ---
 
 ## APK 下载与车机适配
