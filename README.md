@@ -5,7 +5,7 @@
 - 💻 **客户端语言**：Kotlin
 - ⚙️ **服务与训练**：Python（FastAPI + scikit-learn）
 - ⛓️ **链上能力**：Hyperledger Fabric Chaincode + Go API
-
+- 🔍 **参数提取**：Java+ HTML+ Python
 
 ---
 
@@ -35,7 +35,7 @@
 `VehTrust` 是一个面向车载场景的综合安全工程，目标是打通“**安全状态感知 → 事故触发取证 → 责任分析解释 → 可信存证**”的完整链路。  
 当前仓库由四个核心部分组成：
 
-- **🚗 Android App（`app/`）**：安全中心、事故列表、事故详情、责任分析、AI 文本分析、本地严重度推理与上链接口调用。
+- **⚡ Android App（`app/`）**：安全中心、事故列表、事故详情、责任分析、AI 文本分析、本地严重度推理与上链接口调用。
 - **🧠 AI Backend（`backend/`）**：事故分析 API（OpenAI 驱动）及严重度模型训练/导出工具链。
 - **🔗 链码与网关 API（`chaincode_and_API/`）**：Fabric 链码与 Go HTTP 网关，负责数据上链与查询。
 - **📚 CarExt SDK 资料集（`EcarX-CarExt-SDK/`）**：ECARX 能力接口源码、Javadoc 与参数资产，用于参数映射与后续真实车机接入参考。
